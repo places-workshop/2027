@@ -5,14 +5,14 @@ nav_order: 10
 permalink: /cfp
 ---
 
-# PLACES 2026 Call for Papers
+# PLACES 2027 Call for Papers
 
 ## Important Dates
 
-* Abstract registration deadline: ~~23 January 2026, AoE~~ **30 January** 2026, AoE
-* Submission deadline: ~~30 January 2026, AoE~~ **06 February** 2026, AoE
+* Abstract registration deadline: **23 January 2027**, AoE
+* Submission deadline:  **30 February** 2026, AoE
 * Author notification: **08 March** 2026, AoE
-* Workshop: **11 April** 2026 in Turin, Italy
+* Workshop: **11 April** 2026 in Aalborg, Denmark
 
 
 ## Submission Instructions
@@ -65,7 +65,7 @@ Relevant topics include, but are not limited to:
 
 
 ## Proceedings 
-The proceedings of PLACES 2026 with accepted research papers will be published
+The proceedings of PLACES 2027 with accepted research papers will be published
 as a volume of
 [EPTCS](https://eptcs.org/).
 
