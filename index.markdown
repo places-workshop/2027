@@ -7,10 +7,10 @@ title: Home
 nav_exclude: true
 ---
 
-# PLACES 2026: 17th Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software
+# PLACES 2027: 18th Workshop on Programming Language Approaches to Concurrency and Communication-cEntric Software
 
 
-**11 April 2026, Turin, Italy**
+**11 April 2027, Aalborg, Denmark**
 {:style="font-size:1.75em;"}
 
 _Workshop affiliated with [ETAPS 2026](https://etaps.org/2026/)_
@@ -30,4 +30,4 @@ and distribution are the norm rather than a marginal concern.
 PLACES has been a satellite workshop of ETAPS since 2009, and is now well
 established as an ETAPS event.  The PLACES topic is central and combines well
 with the main conferences of ETAPS, in particular with ESOP. 
-PLACES has had 16 previous iterations; this is the 17th edition.
+PLACES has had 17 previous iterations; this is the 18th edition.
