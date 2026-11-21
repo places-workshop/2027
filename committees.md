@@ -5,11 +5,11 @@ nav_order: 20
 permalink: /committees
 ---
 
-# PLACES 2026 Committees
+# PLACES 2027 Committees
 
-## Programme Chairs
+## Programme co-Chairs
 
-- [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home), University of Liverpool, UK
+- [Franco Barbanera](http://www.dmi.unict.it/barba/), University of Catania, Italy
 - [Kirstin Peters](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/), Universität Augsburg, DE
 
 
