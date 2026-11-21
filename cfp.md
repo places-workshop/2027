@@ -10,7 +10,7 @@ permalink: /cfp
 ## Important Dates
 
 * Abstract registration deadline: **23 January 2027**, AoE
-* Submission deadline:  **30 February** 2026, AoE
+* Submission deadline:  **30 January** 2026, AoE
 * Author notification: **08 March** 2026, AoE
 * Workshop: **11 April** 2026 in Aalborg, Denmark
 
