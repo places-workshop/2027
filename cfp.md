@@ -18,7 +18,7 @@ permalink: /cfp
 ## Submission Instructions
 
 
-Submission site: [https://easychair.org/conferences?conf=places2026](https://easychair.org/conferences?conf=places2026)
+Submission site: [https://easychair.org/conferences?conf=places2027](https://easychair.org/conferences?conf=places2027)
 
 
 Submissions are invited in the general area of programming language approaches
@@ -66,8 +66,7 @@ Relevant topics include, but are not limited to:
 
 ## Proceedings 
 The proceedings of PLACES 2027 with accepted research papers will be published
-as a volume of
-[EPTCS](https://eptcs.org/).
+as a volume of [EPTCS](https://eptcs.org/).
 
 ## Special Issue
-The very best papers will be invited in a special issue of JLAMP.
+The very best papers will be invited in a special issue.
