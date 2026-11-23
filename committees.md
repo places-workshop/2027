@@ -15,17 +15,7 @@ permalink: /committees
 
 ## Programme Committee
 
-- [Marco Carbone](https://carbonem.github.io/), IT University of Copenhagen, DK
-- [David Castro-Perez](https://www.kent.ac.uk/school-of-computing/people/3664/castro-perez-david), University of Kent, UK
-- [Cinzia Di Giusto](https://webusers.i3s.unice.fr/~cdigiusto/web/), Université Côte d'Azur, CNRS, I3S, FR
-- [Adrian Francalanza](https://www.um.edu.mt/profile/adrianfrancalanza), University of Malta, MT
-- [Paola Giannini](https://people.unipmn.it/giannini/), Computer Science Institute, DiSSTE, Universita' del Piemonte Orientale, IT
-- [Eva Graversen](https://taltech.ee/en/contacts/laboratory-compositional-systems-and-methods/eva-fajstrup-graversen), Tallinn University of Technology, EE
-- [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), LASIGE, PT
-- [Rumyana Neykova](https://www.brunel.ac.uk/people/rumyana-neykova/), Brunel University of London, GB
-- [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/), Gran Sasso Science Institute, IT
-- [Shoji Yuen](https://profs.provost.nagoya-u.ac.jp/html/100001809_en.html), Nagoya University, JP
-
+TBA
 
 ## Organising Committee
 
