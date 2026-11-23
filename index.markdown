@@ -13,9 +13,9 @@ nav_exclude: true
 **11 April 2027, Aalborg, Denmark**
 {:style="font-size:1.75em;"}
 
-_Workshop affiliated with [ETAPS 2026](https://etaps.org/2026/)_
+_Workshop affiliated with [ETAPS 2027](https://etaps.org/2027/)_
 
-[![ETAPS logo]({{ site.baseurl }}/assets/images/etaps.png "ETAPS"){:style="height:5em;"}](https://etaps.org/2025)
+[![ETAPS logo]({{ site.baseurl }}/assets/images/etaps.png "ETAPS"){:style="height:5em;"}](https://etaps.org/2027)
 
 The increasingly concurrent and parallel landscape of hardware and software
 infrastructures demands the exploration and understanding of a wide variety of
@@ -28,6 +28,6 @@ ideas about these challenges to modern and future programming, where concurrency
 and distribution are the norm rather than a marginal concern.
 
 PLACES has been a satellite workshop of ETAPS since 2009, and is now well
-established as an ETAPS event.  The PLACES topic is central and combines well
+established as an ETAPS event. The PLACES topic is central and combines well
 with the main conferences of ETAPS, in particular with ESOP. 
 PLACES has had 17 previous iterations; this is the 18th edition.
